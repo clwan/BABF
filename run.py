@@ -10,9 +10,9 @@ rbias=0.9
 lbias=0.3
 lerror=0.05
 
-max_iter=20
-m1=50
-m2=10
+max_iter=20 # t_all
+m1=50 # t_MF
+m2=10 # t_BI
 
 
 # simulate data
